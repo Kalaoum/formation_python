@@ -1,6 +1,7 @@
 """ un module """
 
-#fonction
+
+# fonction
 
 def maj(chaine):
     return chaine.upper()
